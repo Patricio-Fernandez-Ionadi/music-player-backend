@@ -1,0 +1,101 @@
+[
+  {
+    "name": "hardcore",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/hardcore"
+  },
+  {
+    "name": "relax",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/relax"
+  },
+  {
+    "name": "Moda",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/Moda"
+  },
+  {
+    "name": "Fe",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/Fe"
+  },
+  {
+    "name": "Nostalgita",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/Nostalgita"
+  },
+  {
+    "name": "Monono",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/Monono"
+  },
+  {
+    "name": "Bienvenida",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/Bienvenida"
+  },
+  {
+    "name": "Baila baila",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/Baila baila"
+  },
+  {
+    "name": "Al fin y al cabo",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/Al fin y al cabo"
+  },
+  {
+    "name": "Re jurada",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/Re jurada"
+  },
+  {
+    "name": "Tu chacalito",
+    "extension": ".mp3",
+    "artist": "el cantador",
+    "album": "las canciones",
+    "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "http://localhost:3001/api/songs/Tu chacalito"
+  }
+]
