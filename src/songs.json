@@ -6,7 +6,7 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/hardcore"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/hardcore"
   },
   {
     "name": "relax",
@@ -15,7 +15,7 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/relax"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/relax"
   },
   {
     "name": "Moda",
@@ -24,7 +24,7 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/Moda"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Moda"
   },
   {
     "name": "Fe",
@@ -33,7 +33,7 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/Fe"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Fe"
   },
   {
     "name": "Nostalgita",
@@ -42,7 +42,7 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/Nostalgita"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Nostalgita"
   },
   {
     "name": "Monono",
@@ -51,7 +51,7 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/Monono"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Monono"
   },
   {
     "name": "Bienvenida",
@@ -60,7 +60,7 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/Bienvenida"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Bienvenida"
   },
   {
     "name": "Baila baila",
@@ -69,7 +69,7 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/Baila baila"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Baila baila"
   },
   {
     "name": "Al fin y al cabo",
@@ -78,7 +78,7 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/Al fin y al cabo"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Al fin y al cabo"
   },
   {
     "name": "Re jurada",
@@ -87,7 +87,7 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/Re jurada"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Re jurada"
   },
   {
     "name": "Tu chacalito",
@@ -96,6 +96,6 @@
     "album": "las canciones",
     "year": 2022,
     "uploadBy": "IsPutinFly",
-    "src": "http://localhost:3001/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
   }
 ]
