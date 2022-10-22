@@ -1,27 +1,27 @@
 [
   {
-    "name": "hardcore",
+    "name": "ikuD",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
-    "year": 2022,
+    "artist": "AlcaZone",
+    "album": "EGO Fest 2017",
+    "year": 2017,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/hardcore"
   },
   {
-    "name": "relax",
+    "name": "Lealtad",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
-    "year": 2022,
+    "artist": "AlcaZone",
+    "album": "FMS 2020",
+    "year": 2020,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/relax"
   },
   {
     "name": "Moda",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
+    "artist": "Malandro",
+    "album": "El amor no muere, y vos te queres morir!",
     "year": 2022,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/Moda"
@@ -29,8 +29,8 @@
   {
     "name": "Fe",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
+    "artist": "Malandro",
+    "album": "El amor no muere, y vos te queres morir!",
     "year": 2022,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/Fe"
@@ -38,8 +38,8 @@
   {
     "name": "Nostalgita",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
+    "artist": "Malandro",
+    "album": "El amor no muere, y vos te queres morir!",
     "year": 2022,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/Nostalgita"
@@ -47,8 +47,8 @@
   {
     "name": "Monono",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
+    "artist": "Malandro",
+    "album": "El amor no muere, y vos te queres morir!",
     "year": 2022,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/Monono"
@@ -56,8 +56,8 @@
   {
     "name": "Bienvenida",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
+    "artist": "Malandro",
+    "album": "El amor no muere, y vos te queres morir!",
     "year": 2022,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/Bienvenida"
@@ -65,8 +65,8 @@
   {
     "name": "Baila baila",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
+    "artist": "Malandro",
+    "album": "El amor no muere, y vos te queres morir!",
     "year": 2022,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/Baila baila"
@@ -74,8 +74,8 @@
   {
     "name": "Al fin y al cabo",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
+    "artist": "Malandro",
+    "album": "El amor no muere, y vos te queres morir!",
     "year": 2022,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/Al fin y al cabo"
@@ -83,8 +83,8 @@
   {
     "name": "Re jurada",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
+    "artist": "Malandro",
+    "album": "El amor no muere, y vos te queres morir!",
     "year": 2022,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/Re jurada"
@@ -92,9 +92,181 @@
   {
     "name": "Tu chacalito",
     "extension": ".mp3",
-    "artist": "el cantador",
-    "album": "las canciones",
+    "artist": "Malandro",
+    "album": "El amor no muere, y vos te queres morir!",
     "year": 2022,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  // ------------------------------------------------------
+  {
+    "name": "De frente mar",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "En las buenas y en las pairas",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Morir callado",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Amor de barrio",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "No la boquies",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Como en donde vivo",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "De onda nada",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Mañas y maneras",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Ladron inocente",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Pibes de oro",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Dios, Mandinga y yo",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Nada ni nadie",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Juan enrosque",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Libre o nada",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Panito billete",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Moreno del hood",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Cantante",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Por mis panas",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
+    "uploadBy": "IsPutinFly",
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+  },
+  {
+    "name": "Triste felicidad",
+    "extension": ".mp3",
+    "artist": "Malandro",
+    "album": "De nuevo",
+    "year": 2021,
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
   }
