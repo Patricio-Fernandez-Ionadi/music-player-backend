@@ -98,7 +98,6 @@
     "uploadBy": "IsPutinFly",
     "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
   },
-  // ------------------------------------------------------
   {
     "name": "De frente mar",
     "extension": ".mp3",
@@ -106,7 +105,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/De frente mar"
   },
   {
     "name": "En las buenas y en las pairas",
@@ -115,7 +114,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/En las buenas y en las pairas"
   },
   {
     "name": "Morir callado",
@@ -124,7 +123,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Morir callado"
   },
   {
     "name": "Amor de barrio",
@@ -133,7 +132,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Amor de barrio"
   },
   {
     "name": "No la boquies",
@@ -142,7 +141,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/No la boquies"
   },
   {
     "name": "Como en donde vivo",
@@ -151,7 +150,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Como en donde vivo"
   },
   {
     "name": "De onda nada",
@@ -160,7 +159,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/De onda nada"
   },
   {
     "name": "Mañas y maneras",
@@ -169,7 +168,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Mañas y maneras"
   },
   {
     "name": "Ladron inocente",
@@ -178,7 +177,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Ladron inocente"
   },
   {
     "name": "Pibes de oro",
@@ -187,7 +186,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Pibes de oro"
   },
   {
     "name": "Dios, Mandinga y yo",
@@ -196,7 +195,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Dios, Mandinga y yo"
   },
   {
     "name": "Nada ni nadie",
@@ -205,7 +204,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Nada ni nadie"
   },
   {
     "name": "Juan enrosque",
@@ -214,7 +213,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Juan enrosque"
   },
   {
     "name": "Libre o nada",
@@ -223,7 +222,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Libre o nada"
   },
   {
     "name": "Panito billete",
@@ -232,7 +231,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Panito billete"
   },
   {
     "name": "Moreno del hood",
@@ -241,7 +240,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Moreno del hood"
   },
   {
     "name": "Cantante",
@@ -250,7 +249,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Cantante"
   },
   {
     "name": "Por mis panas",
@@ -259,7 +258,7 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Por mis panas"
   },
   {
     "name": "Triste felicidad",
@@ -268,6 +267,6 @@
     "album": "De nuevo",
     "year": 2021,
     "uploadBy": "IsPutinFly",
-    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Tu chacalito"
+    "src": "https://protected-springs-12776.herokuapp.com/api/songs/Triste felicidad"
   }
 ]
