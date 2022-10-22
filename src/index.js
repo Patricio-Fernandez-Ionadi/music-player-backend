@@ -25,4 +25,9 @@ app.get('/api/songs/:name', (req, res) => {
   ms.pipe(req, res, song, 'audio/mpeg')
 })
 
-app.listen(PORT, () => console.log('sv on port:', PORT))
+app.listen(PORT, () =>
+  console.log({
+    allSongs: `http://localhost:3001/api/songs`,
+    song: `http://localhost:3001/api/songs/Moda`,
+  })
+)
